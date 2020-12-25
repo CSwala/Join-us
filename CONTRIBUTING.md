@@ -20,6 +20,8 @@
 
 1. Star the [Join-us Repo](https://github.com/CSwala/Join-us)
 
-2. You can join only if you close atleast 3 issues.
+2. Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
 
-3. Accept the invitation from CSwala GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [CSwala GitHub Organization page](https://github.com/CSwala) and check if you have a notification over there.
+3. You can join only if you close atleast 3 issues.
+
+4. Accept the invitation from CSwala GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [CSwala GitHub Organization page](https://github.com/CSwala) and check if you have a notification over there.
