@@ -4,13 +4,19 @@ An repo for people to join CSwala Community.
 
 We have created this repository as a welcoming path for the contributors into our community and create awareness about Open Source. Once, you have made the contributions according to the instructions given in the contribution guidelines, you will be sent an invitation to be a part of our community!
 
-## Contribution Guidelines
 
-First off, thanks for taking the time to contribute! :tada:
 
-The guidelines for contributing to this repository can be found in the [CONTRIBUTING.md](https://github.com/CSwala/join-us/blob/main/CONTRIBUTING.md) file. 
+## Please follow these steps to join the community:
 
-These guidelines are a way to communicate how people should contribute. These guidelines will help you verify that you're submitting well-formed pull requests and opening useful issues. For both contributors and us, contribution guidelines will save time and hassle caused by improperly created pull requests or issues that have to be rejected and re-submitted.
+1. Star the [Join-us Repo](https://github.com/CSwala/Join-us)
+
+2. Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
+
+3. You can join only if you close atleast 3 issues.
+
+4. Accept the invitation from CSwala GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [CSwala GitHub Organization page](https://github.com/CSwala) and check if you have a notification over there.
+
+
 
 ## Code of Conduct
 
