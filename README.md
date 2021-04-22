@@ -1,6 +1,6 @@
 ## [Join the team](#join-us)
 
-An repo for people to join CSwala Community.
+A repo for people to join CSwala Community.
 
 We have created this repository as a welcoming path for the contributors into our community and create awareness about Open Source. Once, you have made the contributions according to the instructions given in the contribution guidelines, you will be sent an invitation to be a part of our community!
 
@@ -12,7 +12,7 @@ We have created this repository as a welcoming path for the contributors into ou
 
 2. Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
 
-3. You can join only if you close atleast 3 issues.
+3. You can join only if you close at least 3 issues.
 
 4. Accept the invitation from CSwala GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [CSwala GitHub Organization page](https://github.com/CSwala) and check if you have a notification over there.
 
