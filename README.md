@@ -14,7 +14,7 @@ We have created this repository as a welcoming path for the contributors into ou
 
 3. Run the [Starme](https://github.com/CSwala/Join-us/blob/main/STAR_ME.js) Script in console to star our repos.<br>
 The console looks like this<br><br>
-<img src="https://github.com/CSwala/Join-us/blob/main/img/ss.jpg"  width="300">
+<img src="https://github.com/CSwala/Join-us/blob/main/img/ss.jpg"  width="2000">
 
 4. You can join only if you close at least 3 issues.
 
