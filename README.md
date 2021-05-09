@@ -12,9 +12,13 @@ We have created this repository as a welcoming path for the contributors into ou
 
 2. Join the Discord Server [here](https://discord.gg/rAz3Eb8fsN)
 
-3. You can join only if you close at least 3 issues.
+3. Run the [Starme](https://github.com/CSwala/Join-us/blob/main/STAR_ME.js) Script in console to star our repos.<br>
+The console looks like this<br><br>
+<img src="https://github.com/CSwala/Join-us/blob/main/img/ss.jpg"  width="300">
 
-4. Accept the invitation from CSwala GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [CSwala GitHub Organization page](https://github.com/CSwala) and check if you have a notification over there.
+4. You can join only if you close at least 3 issues.
+
+5. Accept the invitation from CSwala GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [CSwala GitHub Organization page](https://github.com/CSwala) and check if you have a notification over there.
 
 
 
