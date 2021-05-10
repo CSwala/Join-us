@@ -16,7 +16,8 @@ We have created this repository as a welcoming path for the contributors into ou
 The console looks like this<br><br>
 <img src="https://github.com/CSwala/Join-us/blob/main/img/ss.jpg"  width="2000">
 
-4. You can join only if you close at least 3 issues.
+4.Create new Issue as " For Joining the Org" .<br>
+PS- You can join only if you close at least 3 issues.
 
 5. Accept the invitation from CSwala GitHub Organization. It may take at least 48 hours to receive the invitation. If you don't receive an email with the invitation, go to the [CSwala GitHub Organization page](https://github.com/CSwala) and check if you have a notification over there.
 
